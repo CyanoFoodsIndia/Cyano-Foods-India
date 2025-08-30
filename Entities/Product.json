@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Spirulina + Turmeric Soap",
+    "brand": "Cyano Veda",
+    "category": "Soaps",
+    "tagline": "Antiseptic & skin brightening",
+    "image_url": "./Images/Health/turmeric.png",
+    "price": 80,
+    "short_description": "Cyano Spirulina-Turmeric Soap is a unique, all-natural soap designed to rejuvenate and nourish the skin with the combined benefits of spirulina and turmeric.",
+    "full_description": "Spirulina, rich in antioxidants, vitamins, and minerals, helps to detoxify and revitalize the skin, promoting a healthy, glowing complexion.",
+    "benefits": ["Fights acne", "Brightens skin", "Reduces inflammation"],
+    "best_for": "Oily & acne-prone skin",
+    "usage_instructions": "Use daily for best results.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Spirulina + Beetroot Soap",
+    "brand": "Cyano Veda",
+    "category": "Soaps",
+    "tagline": "Detox & glow booster",
+    "image_url": "./Images/Health/beetroot.png",
+    "price": 80,
+    "short_description": "Cyano Pure Spirulina-Beetroot Soap is a handcrafted, natural skincare product designed for deep nourishment and gentle cleansing. ",
+    "full_description": "Infused with organic spirulina and beetroot extract, this soap is rich in antioxidants, vitamins, and essential minerals that promote radiant and healthy skin.",
+    "benefits": ["Detoxifies", "Improves skin tone", "Hydrates"],
+    "best_for": "Dull & uneven skin",
+    "usage_instructions": "Apply directly and rinse off.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Spirulina + Coffee Soap",
+    "brand": "Cyano Veda",
+    "category": "Soaps",
+    "tagline": "Exfoliating & firming",
+    "image_url": "./Images/Health/coffee.png",
+    "price": 80,
+    "short_description": "Cyano Pure Spirulina-Coffee Soap is a handcrafted, all-natural soap that blends the powerful benefits of spirulina and coffee to deeply cleanse, nourish, and revitalize the skin. ",
+    "full_description": "Coffee, known for its exfoliating and anti-inflammatory properties, gently removes dead skin cells, reduces cellulite appearance, and enhances circulation for a radiant glow.",
+    "benefits": ["Exfoliates", "Reduces cellulite", "Refreshes skin"],
+    "best_for": "Tired & textured skin",
+    "usage_instructions": "Massage gently and rinse well.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Pure Spirulina Soap",
+    "brand": "Cyano Veda",
+    "category": "Soaps",
+    "tagline": "Cleansing & nourishing",
+    "image_url": "./Images/Health/soap-spirulina.png",
+    "price": 80,
+    "short_description": "Cyano Pure Spirulina Soap is a handcrafted, all-natural soap infused with the powerful benefits of organic spirulina. ",
+    "full_description": "It deeply cleanses, nourishes, and revitalizes the skin with essential vitamins, minerals, and antioxidants. ",
+    "benefits": ["Deep cleanses", "Balances oil", "Nourishes skin"],
+    "best_for": "All skin types",
+    "usage_instructions": "Use daily for balanced skin.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Phycocyanin Soap",
+    "brand": "Cyano Veda",
+    "category": "Soaps",
+    "tagline": "Anti-aging & repair",
+    "image_url": "./Images/Health/phycocyanin.png",
+    "price": 100,
+    "short_description": "Cyano Phycocyanin Soap is a premium handmade soap infused with phycocyanin, the powerful blue pigment from spirulina, known for its antioxidant and anti-inflammatory properties. ",
+    "full_description": "This soap deeply nourishes the skin, promotes cell regeneration, and helps combat dryness, acne, and premature aging. Enriched with natural oils and glycerin, it hydrates, soothes irritation, and enhances skin elasticity, leaving a radiant glow.",
+    "best_for": "Aging & damaged skin",
+    "usage_instructions": "Use twice daily.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Spirulina + Rice Flour Soap",
+    "brand": "Cyano Veda",
+    "category": "Soaps",
+    "tagline": "Gentle exfoliation & glow",
+    "image_url": "./Images/Health/riceflour.png",
+    "price": 80,
+    "short_description": "Cyano Rice Flour Soap is a natural, handcrafted soap enriched with the goodness of rice flour, known for its skin-brightening and exfoliating properties. ",
+    "full_description": "The soap helps reduce dark spots, pigmentation, and tan while promoting an even skin tone.",
+    "benefits": ["Evens tone", "Gentle exfoliation", "Softens skin"],
+    "best_for": "Sensitive & dull skin",
+    "usage_instructions": "Lather and rinse off.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Cyano Shampoo",
+    "brand": "Cyano Veda",
+    "category": "Hair Care",
+    "tagline": "30 herbs + Spirulina blend",
+    "image_url": "./Images/shampoo.png",
+    "price": 200,
+    "short_description": "Cyano Shampoo with a blend of 30 herbs and Spirulina to strengthen roots and promote healthy hair.",
+    "full_description": "Sourced from the lush forests of Dang, Gujarat, this nutrient-rich shampoo deeply nourishes the scalp, strengthens hair roots, and promotes healthy, fast hair growth.",
+    "benefits": ["Strengthens roots", "Reduces hair fall", "Cleanses scalp"],
+    "best_for": "Weak & thinning hair",
+    "usage_instructions": "Apply on wet scalp and rinse thoroughly.",
+    "specifications": {
+      "volume": "200ml"
+    }
+  },
+  {
+    "name": "Cyano Hair Oil",
+    "brand": "Cyano Veda",
+    "category": "Hair Care",
+    "tagline": "Nourishment + shine",
+    "image_url": "./Images/hairoil.png",
+    "price": 150,
+    "short_description": "Cyano Hair Oil, a nourishing oil with 30 herbs and Spirulina to reduce hair fall and boost shine.",
+    "full_description": "Sourced from the pristine forests of Dang, Gujarat, this chemical-free formula deeply hydrates, reduces hair fall, and enhances hair texture, leaving it silky, smooth, and naturally shiny.",
+    "benefits": ["Nourishes hair", "Adds shine", "Reduces hair fall"],
+    "best_for": "Dry & damaged hair",
+    "usage_instructions": "Massage into scalp and leave overnight.",
+    "specifications": {
+      "volume": "100ml"
+    }
+  },
+  {
+    "name": "Organic Spirulina Powder",
+    "brand": "Cyano Veda",
+    "category": "Nutrition",
+    "tagline": "Protein & nutrient powerhouse",
+    "image_url": "./Images/powder.png",
+    "price": 350,
+    "short_description": "A nutrient powerhouse with 60-70% protein, rich in vitamins and minerals.",
+    "full_description": "Our Spirulina is dried at low temperatures to retain maximum nutrients, ensuring a potent, high-quality supplement for your daily health.",
+    "benefits": ["Boosts immunity", "Improves stamina", "Supports detox"],
+    "best_for": "General wellness",
+    "usage_instructions": "Mix with smoothies, juice, or water daily.",
+    "specifications": {
+      "weight": "100g"
+    }
+  },
+  {
+    "name": "Spirulina Jelly Candies",
+    "brand": "Cyano Veda",
+    "category": "Fun Health",
+    "tagline": "Fun nutrition for all ages",
+    "image_url": "./Images/jelly.png",
+    "price": 100,
+    "short_description": "A fun and ideal way for kids and adults to enjoy the benefits of Spirulina.",
+    "full_description": "These candies are crafted by blending organic spirulina into a chewy, flavorful jelly format. ",
+    "benefits": ["Tasty & healthy", "Rich in nutrients", "Kid-friendly"],
+    "best_for": "Kids & snack lovers",
+    "usage_instructions": "Enjoy 1-2 pieces daily.",
+    "specifications": {
+      "quantity": "20 pieces"
+    }
+  }
+]

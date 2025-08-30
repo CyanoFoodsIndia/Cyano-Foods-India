@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Dhan Rakshak",
+    "brand": "Cyano Crennis",
+    "category": "Pest Management",
+    "short_description": "Dhan Rakshak is a scientifically formulated herbal plant pesticide blend with natural plants and cow dung. Dhanarakshak protects plants and crops from insects and animals. It controls all types of sap-sucking insects at the initial stage. Dhanarakshak is an ideal pesticide for crop protection through the organic method.",
+    "full_description": "Dhan Rakshak is a scientifically formulated herbal plant pesticide blend with natural plants and cow dung. Dhanarakshak protects plants and crops from insects and animals. It controls all types of sap-sucking insects at the initial stage. Dhanarakshak is an ideal pesticide for crop protection through the organic method. Main Point: Spray 50-60 ml of Dhan Rakshak in 15 litres of water. Use it 3 to 4 times at an interval of 5 to 7 days. Benefits: Dhanarakshak spray forms a protective shield on the branches, fruits and flowers of the plant. Its smell keeps insects away and disrupts the life cycle of insects. It helps in the effective control of pests on plants. Reduces the use of chemical pesticides. Useful for all types of crops, vegetables, horticultural crops, spices, medicinal plants and flowers like cumin, cotton, groundnut, paddy, diwali, mango, papaya, pomegranate, sapota, chilli, etc.",
+    "benefits": [
+      "Dhanarakshak spray forms a protective shield on the branches, fruits and flowers of the plant",
+      "Its smell keeps insects away and disrupts the life cycle of insects. It helps in the effective control of pests on plants. Reduces the use of chemical pesticides",
+      "Useful for all types of crops, vegetables, horticultural crops, spices, medicinal plants and flowers like cumin, cotton, groundnut, paddy, diwali, mango, papaya, pomegranate, sapota, chilli, etc."
+    ],
+    "usage_instructions": "Spray 50-60 ml of Dhan Rakshak in 15 litres of water. Use it 3 to 4 times at an interval of 5 to 7 days.",
+    "image_url": "./Images/Crennis/dhan-rakshak.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PROM (Phosphate Rich Organic Manure)",
+    "brand": "Cyano Crennis",
+    "category": "Biofertilizer",
+    "short_description": "Phosphate Rich Organic Manure (PROM) with Spirulina is an innovative bio-based fertiliser that provides phosphorus and enhances soil health.",
+    "full_description": "Phosphate Rich Organic Manure (PROM) is an innovative bio-based fertiliser designed to supply phosphorus, a vital nutrient for plant growth, using eco-friendly and sustainable inputs. When combined with Spirulina, PROM transforms into a next-generation soil enhancer that provides not only phosphorus but also biological activity, organic matter, micronutrients, and increased microbial colonisation, promoting holistic soil health. It meets the phosphorus needs of crops, rejuvenates soil health, improves yield, and builds long-term resilience in farming ecosystems.",
+    "benefits": [
+      "Improved Root Development: Enhances flowering and fruiting",
+      "Soil Health Regeneration: Increases cation exchange capacity (CEC) and microbial biomass",
+      "Moisture Retention: Bentonite enhances the soil's ability to hold water, particularly in sandy or dry soils",
+      "Detoxification of Soil: Spirulina neutralises heavy metals and pesticide residues through Dhan Bhumi",
+      "Yield Improvement: Trials have demonstrated a 10-20% increase in yield for cereals, vegetables, and pulses"
+    ],
+    "usage_instructions": "Dosage: 50-100 kg/acre as a basal application. Application Time: Pre-sowing or at the time of sowing/transplanting. Method: Uniformly broadcast and incorporate into the topsoil (5-7 cm).",
+    "image_url": "./Images/Crennis/prom1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dhenu Gold",
+    "brand": "Cyano Crennis",
+    "category": "Soil Amendment",
+    "short_description": "Dhenu Gold is a scientifically formulated blend of cow urine powder, natural plants, and Spirulina to improve soil structure and increase crop production.",
+    "full_description": "Dhenu Gold is a scientifically formulated blend of cow urine powder, natural plants and Spirulina. Dhenu Gold improves soil structure and increases water retention and germination capacity. It increases the size, colour and weight of fruits by developing flowers, which increases crop production capacity. It increases the efficiency of fertilisers by dissolving micronutrients present in the soil and developing herbs.",
+    "benefits": [
+      "Improves soil structure and increases water retention and germination capacity",
+      "Increases the size, colour, and weight of fruits by enhancing flower development and crop yield",
+      "Increases fertiliser efficiency by dissolving micronutrients in the soil",
+      "Reduces the requirement of chemicals by 25–30%"
+    ],
+    "usage_instructions": "Use 1 kg of Dhenu Gold per acre with 200 litres of water or mix with organic seeds or DAP/urea. In combination with chemicals, it reduces the chemical requirement by 25–30%. Useful for all types of crops like cumin, cotton, groundnut, paddy, diwali, mango, papaya, pomegranate, sapota, chilli, vegetables, horticultural crops, spices, medicinal plants and flowers.",
+    "image_url": "./Images/Crennis/dhenu-gold1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dhan Bhumi",
+    "brand": "Cyano Crennis",
+    "category": "Soil Health",
+    "short_description": "Dhan Bhumi is an organic soil nutrient mixture with seaweed, herbal plants, and cow urine to restore soil health and support plant nutrition.",
+    "full_description": "Dhan Bhumi is an organic soil nutrient mixture prepared based on ancient knowledge, made with a scientific combination of seaweed, herbal plants, and cow urine. This mixture provides nutrients to the soil and helps in plant nutrition and soil improvement. It is useful for all soils and crops, especially cotton, peanuts, wheat, rice, vegetables, spices, and horticultural crops like banana, papaya, and mango.",
+    "benefits": [
+      "Helps in soil improvement and provides essential nutrition to plants",
+      "Controls soil-borne diseases",
+      "Improves root development, aiding in better nutrient absorption and increasing yield",
+      "Increases fertiliser efficiency, reducing costs"
+    ],
+    "usage_instructions": "Apply 2 litres per acre at sowing through irrigation, drip, or sprinkler. Thereafter, apply 2 litres per acre with water every 10 days for 3–4 cycles.",
+    "image_url": "./Images/Crennis/dhan-bhumi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dhan Vruddhi",
+    "brand": "Cyano Crennis",
+    "category": "Plant Nutrition",
+    "short_description": "Dhan Vruddhi is a scientifically prepared organic water flow mixture made by fermenting seaweed (Samudhi Ghas) and cow urine to improve soil and crop nutrition.",
+    "full_description": "Dhan Vruddhi is made up of various organic elements based on ancient knowledge. It is a scientifically prepared organic water flow mixture prepared by fermenting seaweed (Samudhi Ghas) and cow urine. It is beneficial in soil improvement and plant nutrition.",
+    "benefits": [
+      "Provides essential nutrition to crops",
+      "Increases disease resistance and reduces yellowing",
+      "Promotes more green cells, improving food transport within plants",
+      "Strengthens crops and increases yield",
+      "Useful for all crops like cotton, groundnut, paddy, wheat, vegetables, spices, and horticultural crops such as banana, watermelon, mango, pomegranate, melon"
+    ],
+    "usage_instructions": "Spray 80–100 ml of Dhan Vruddhi per water pump, 3–4 times. Alternatively, mix 2 litres per acre in water for sprinkler irrigation.",
+    "image_url": "./Images/Crennis/dhan-vruddhi.jpg"
+  }
+]
